@@ -1,5 +1,5 @@
 this is other user
 
-this is other user wooseoungyup
-
-this is other user wooseoungyup
+<<<<<<< HEAD
+i am the best
+>>>>>>> f324fb0dac3bf8c409ca0d3db29fa111de9a3753
